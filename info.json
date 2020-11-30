@@ -1,0 +1,18 @@
+{
+    "name": "Robert Shirak",
+    "website": "https://github.com/RobertShirak",
+    "github": "RobertShirak",
+    "email": "bcshirak1@gmail.com",
+    "resume": "https://docs.google.com/document/d/1MXwP_eFZpewGT2GB7l6BdC03s3-Z1_IFMP7cDfR8mKQ/edit?usp=sharing",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django"
+    ]
+}
